@@ -1,8 +1,145 @@
-# React + Vite
+<img src="https://github.com/Atril33/rails_blog_app/blob/dev/my-logo.png" width="100px" />
+<!-- TABLE OF CONTENTS -->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📗 Table of Contents
 
-Currently, two official plugins are available:
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<!-- PROJECT DESCRIPTION -->
+
+# 📖  Hello Rails React Backend<a name='about-project'></a>
+
+> This is my Rails App For API
+
+## 🛠 Built With <a name='built-with'></a>
+
+### Tech Stack <a name='tech-stack'></a>
+
+> This project uses the following stack :
+
+<details>
+  <summary>React & Redux</summary>
+</details>
+
+<!-- Features -->
+
+### Frontend
+Here is the [Backend](https://github.com/Atril33/hello-rails-back-end) Repo of this app.
+### Key Features <a name='key-features'></a>
+
+<!-- > Describe between 1-3 key features of the application. -->
+
+- [x] React & Redux
+- [x] Routes For Routing
+- [x] Use API for Fetching Data
+
+<p align='right'>(<a href='#readme-top'>back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name='getting-started'></a>
+
+<!-- > Clone the repository by clicking on the 'Code' button and copy the link -->
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+You should have Ruby install on your local machine
+
+### Setup
+
+Clone this repository to your desired folder:
+
+Example commands:
+
+```sh
+https://github.com/Atril33/hello-react-front-end
+
+```
+### Usage
+
+To run the project, open your project in your terminal
+
+```sh
+ npm i
+```
+
+```sh
+ npm run dev
+```
+
+<p align='right'>(<a href='#readme-top'>back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name='authors'></a>
+👤 **Syed Atril**
+
+- GitHub: [@githubhandle](https://github.com/Atril33)
+- Twitter: [@twitterhandle](https://twitter.com/AtrilSyed)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-atril-831696248/)
+
+<p align='right'>(<a href='#readme-top'>back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name='future-features'></a>
+
+- [ ] Add More Features
+<!-- > Describe 1 - 3 features you will add to the project. -->
+
+
+
+<p align='right'>(<a href='#readme-top'>back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name='contributing'></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/swarzstein/morse-code/issues).
+
+<p align='right'>(<a href='#readme-top'>back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name='support'></a>
+
+Give a ⭐️ if you like this project!
+
+<p align='right'>(<a href='#readme-top'>back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name='acknowledgements'></a>
+
+> I would like to thank Microverse for this opportunity.
+
+<p align='right'>(<a href='#readme-top'>back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name='license'></a>
+
+This project is [MIT](https://github.com/Atril33/hello-react-front-end/blob/dev/LICENSE) licensed.
+
+<p align='right'>(<a href='#readme-top'>back to top</a>)</p>
+
