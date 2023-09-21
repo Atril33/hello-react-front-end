@@ -21,9 +21,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖  Hello Rails React Backend<a name='about-project'></a>
+# 📖  Hello Rails React FrontEnd <a name='about-project'></a>
 
-> This is my Rails App For API
+> This is my React App For Frontend.
 
 ## 🛠 Built With <a name='built-with'></a>
 
